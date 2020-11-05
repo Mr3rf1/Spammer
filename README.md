@@ -21,8 +21,8 @@ A python tool for Spamming in every where
  [!] Plesae Click on the text box, after 15 seconds spammer will start.
  [!] Spam finished in: 1 seconds :)
 </pre>
-<p><h2>Install<h2></p>
-<p><h2>Linux<h2></p>
+## Install
+### Linux
 <p><h4>Enter these codes:</h4></p>
 <ul>
   <li><code>sudo apt-get update</code></li>
