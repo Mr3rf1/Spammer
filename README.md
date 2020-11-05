@@ -21,6 +21,11 @@ A python tool for Spamming in every where
  [!] Plesae Click on the text box, after 15 seconds spammer will start.
  [!] Spam finished in: 1 seconds :)
 </pre>
+<p><h2>Operating Systems</h2></p>
+<ul>
+	<p><h4>Linux</h4></p>
+	<p><h4>Windows</h4></p>
+</ul>
 ## Install
 <p><h2>Linux</h2></p>
 <p><h4>Enter these codes:</h4></p>
