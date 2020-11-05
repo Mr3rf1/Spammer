@@ -26,7 +26,7 @@ A python tool for Spamming in every where
  - Windows
 ## Install
 <p><h2>Linux</h2></p>
-<p><h4>Enter these codes:</h4></p>
+<p><h4>Enter these commands:</h4></p>
 <ul>
   <li><code>sudo apt-get update</code></li>
   <li><code>sudo apt-get upgrade</code></li>
