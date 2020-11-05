@@ -34,5 +34,5 @@ A python tool for Spamming in every where
 </ul>
 #### To Run Code:
 <ul>
-	<li><code></code></li>
+	<li><code>python3 Spamer.py</code></li>
 </ul>
