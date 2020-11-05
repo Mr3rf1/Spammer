@@ -22,7 +22,7 @@ A python tool for Spamming in every where
  [!] Spam finished in: 1 seconds :)
 </pre>
 ## Install
-### Linux
+<p><h2>Linux</h2></p>
 <p><h4>Enter these codes:</h4></p>
 <ul>
   <li><code>sudo apt-get update</code></li>
@@ -36,4 +36,4 @@ A python tool for Spamming in every where
 <ul>
 	<li><code>python3 Spamer.py</code></li>
 </ul>
-### Windows
+<p><h2>Windows</h2></p>
