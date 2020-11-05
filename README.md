@@ -22,4 +22,11 @@ A python tool for Spamming in every where
  [!] Spam finished in: 1 seconds :)
 </pre>
 <p><h2>Install<h2></p>
-<h3>Linux<h3>
+<h2>Linux<h2>
+<p>
+	<h4>Enter these codes:</h4>
+	<code>sudo apt update</code>
+	<code>sudo apt upgrade</code>
+	<code>sudo apt install python3 python3-pip</code>
+	<code>sudo pip3 install pynput</code>
+</p>
