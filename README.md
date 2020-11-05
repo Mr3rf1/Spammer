@@ -41,4 +41,4 @@ A python tool for Spamming in every where
 </ul>
 <p><h2>Windows</h2></p>
 <p><h4>Download and Run code with python3</h4></p>
-<p><h2><a href="https://uupload.ir/view/gfjq_screenshot_from_2020-11-05_21-56-41.png" target="_blank"><img src="https://uupload.ir/files/gfjq_screenshot_from_2020-11-05_21-56-41_thumb.png" border="0" alt="آپلود عکس" /></a></h2></p>
+<p><a href="https://uupload.ir/view/gfjq_screenshot_from_2020-11-05_21-56-41.png" target="_blank"><img src="https://uupload.ir/files/gfjq_screenshot_from_2020-11-05_21-56-41_thumb.png" border="0" alt="آپلود عکس" /></a></p>
