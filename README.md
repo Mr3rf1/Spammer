@@ -22,9 +22,13 @@ A python tool for Spamming in every where
  [!] Spam finished in: 1 seconds :)
 </pre>
 <p><h2>Install<h2></p>
-<h2>Linux<h2>
+<p><h2>Linux<h2></p>
 <p><h4>Enter these codes:</h4></p>
-<p><code>sudo apt update</code></p>
-<p><code>sudo apt upgrade</code></p>
-<p><code>sudo apt install python3 python3-pip</code></p>
-<p><code>sudo pip3 install pynput</code></p>
+<ul>
+  <li><code>sudo apt-get update</code></li>
+  <li><code>sudo apt-get upgrade</code></li>
+  <li><code>sudo apt-get install git python3 python3-pip</code></li>
+  <li><code>sudo pip3 install pynput</code></li>
+  <li><code>git clone https://github.com/e811-py/Spammer</code></li>
+  <li><code>cd Spammer</code></li>
+</ul>
