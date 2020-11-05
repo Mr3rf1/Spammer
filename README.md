@@ -27,7 +27,7 @@ A python tool for Spamming in every where
 <ul>
   <li><code>sudo apt-get update</code></li>
   <li><code>sudo apt-get upgrade</code></li>
-  <li><code>sudo apt-get install git python3 python3-pip</code></li>
+  <li><code>sudo apt-get install git python3 python3-pip -y</code></li>
   <li><code>sudo pip3 install pynput</code></li>
   <li><code>git clone https://github.com/e811-py/Spammer</code></li>
   <li><code>cd Spammer</code></li>
@@ -37,3 +37,4 @@ A python tool for Spamming in every where
 	<li><code>python3 Spamer.py</code></li>
 </ul>
 <p><h2>Windows</h2></p>
+<p><h4>Download and Run code with python3</h4></p>
