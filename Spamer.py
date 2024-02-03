@@ -34,8 +34,8 @@ def main():
 {} |____/| .__/ \__,_|_| |_| |_|_| |_| |_|\___|_|   
 {}       |_|    
 {}
-	github.com/e811-py
-	t.me/e811_py
+	github.com/mr3rf1
+	t.me/mr3rf1
 '''.format(colors.green, colors.purple, colors.red, colors.purple, colors.green, colors.reset))
 
 	tcount = input(f' {colors.yellow}[{colors.green}?{colors.yellow}] {colors.reset}How many text do you want to send:{colors.green} ')
