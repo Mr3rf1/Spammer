@@ -32,7 +32,7 @@ A python tool for Spamming in every where
   <li><code>sudo apt-get upgrade</code></li>
   <li><code>sudo apt-get install git python3 python3-pip -y</code></li>
   <li><code>sudo pip3 install pynput</code></li>
-  <li><code>git clone https://github.com/e811-py/Spammer</code></li>
+  <li><code>git clone https://github.com/Mr3rf1/Spammer</code></li>
   <li><code>cd Spammer</code></li>
 </ul>
 <p><h4>To Run Code:</h4></p>
